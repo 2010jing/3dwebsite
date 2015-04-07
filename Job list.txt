@@ -1,0 +1,25 @@
+首页 
+	- Exhibition (ok)
+	- Course (ok)
+	- Vote
+	- About (ok)
+
+后台
+	- 更新密码 (ok)
+	- Exhibition list ( ok )
+	- Exhibition publish (ok)
+	- Course list (ok)
+	- Course publish (ok)
+	- Check students in course (ok)
+	- students take course (ok)
+	- Race vote
+	- Check Race result (ok)
+
+
+3D 
+	- show the 3D view 
+	- Exhibition discuz
+
+
+分页
+	paging (ok)
